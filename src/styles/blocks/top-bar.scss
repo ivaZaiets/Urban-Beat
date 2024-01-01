@@ -1,0 +1,32 @@
+.top-bar {
+  padding: 24px 20px;
+
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+
+  @include onTable {
+    padding: 36px 50px;
+  }
+
+  @include onDesktop {
+    padding: 36px 95px;
+  }
+
+  &__logo {
+    display: flex;
+
+    @include onTable {
+      height: 65px;
+    }
+  }
+
+  &__icons {
+    display: flex;
+    gap: 24px;
+
+    @include onTable {
+      gap: 32px;
+    }
+  }
+}
