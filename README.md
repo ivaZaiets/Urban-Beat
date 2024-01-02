@@ -25,7 +25,7 @@ making our site even more visually appealing.
 
 ## Overview
 
-https://github.com/ivaZaiets/Urban-Beat/assets/142230575/eb2bb536-fcdf-465e-a3b6-5d803a9e03a8
+![UrbanBeat_landing_page](https://github.com/ivaZaiets/Urban-Beat/assets/142230575/9fa033b2-7f17-4ea9-a80d-854dce849b30)
 
 ## Links
 
